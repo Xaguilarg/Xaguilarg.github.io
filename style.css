@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+}
+.body {
+    background-color:#afae7e ;
+}
+.marquesina {
+    font-family: 'EB Garamond', serif;
+font-family: 'Playfair Display', serif;
+}
+.section{
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    float: left;
+    text-size-adjust:initial;
+    background-color: #f0efd9 ;
+    width: 96.8%;
+    height: auto ;
+    min-height: 682px;
+    padding: 20px;
+    }
+    .feli{
+        font-family: 'Great Vibes', cursive;
+    }
+    .fuente{
+        font-family: 'EB Garamond', serif;
+font-family: 'Playfair Display', serif;
+    }
+    nav ul {
+        list-style: none;
+        margin: 0;
+        padding:  0;
+      }
+      
+      nav ul li {
+        float: left;
+            position: relative;
+      }
+      
+      nav ul li a {
+        display: block;
+        padding: 10px 70.8Px;
+        color: #151615;
+        text-decoration: none;
+        background-color: rgb(233, 180, 180);
+      }
+      
+      nav ul li:hover > a {
+        background-color: #be6d6d;
+      }
+      
+      nav ul li:hover a:not(:only-child) {
+        background-color: #be6d6d;
+      }
+      
+      nav ul li:hover > ul {
+        display: block;
+      }
+      
+      nav ul ul {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color:rgb(153, 183, 209);
+        padding: 0;
+      }
+      
+      nav ul ul li {
+        float: none;
+        width: 226px;
+      }
+      
+      nav ul ul a {
+        padding: 10px 15px;
+        color: #333;
+        text-decoration: none;
+      }
+      
+      nav ul ul a:hover {
+        background-color: #ccc;
+      }
+      
+      nav ul ul ul {
+        top: 0;
+        left: 100%;
+        width: 200px;
+      }
+      header{
+        background-color: #ffffff;
+      }
+    
+
+   footer {
+    min-height: 70px;
+    background-color:darksalmon;
+    border-top: 1px solid rgba(50, 50, 50, 0.3);
+    width: 100%;
+    position: relative;
+    clear: both;
+    margin-top: 0px;
+    padding-top: 0px;
+    overflow: visible;
+    
+          }
+ .abajo1 {
+ float: left;
+ }
+  .limon {
+
+    float: right;
+ }
+ .somos{
+    text-align:left;
+    font-style: oblique;
+    font-family: 'Kaisei Decol', serif;
+ }
+ .imagen { 
+    padding-top: 25px;
+    float: right;
+    padding-right: 50px;
+ font-size: 15px;
+ text-align: center;
+
+ }
+ .opera {
+    font-size:20px;
+    font-family: 'Kaisei Decol', serif;
+    text-align: left;
+
+ }
+ .video {
+    align-items: center;
+    float: center;
+    padding-left: 280px;
+ }
+ .canasta{ 
+    float:left;
+ }
+ .rollo {
+align-items: center;
+    float: center;
+    padding-left: 50px;
+    text-decoration: double;
+ }
+ .choco {
+    border-radius: 25%;
+    float: right;
+    padding-top: 20px;
+ }
+ .conos{ 
+    float:left;
+ }
+ .cuqui {
+align-items: center;
+    float: center;
+    padding-left: 50px;
+    text-decoration: double;
+ }
+ .galon {
+    border-radius:10px;
+    float: right;
+    padding-top: 20px;
+ }
+ .nuestros {
+    background-color: rgb(233, 180, 180);
+    font-family: 'Playfair Display', serif;
+ }
+ .productos {
+    font-family: 'Kaisei Decol', serif;
+    font-size: 20px;
+ }
+ .compa{
+    font-family: 'Kaisei Decol', serif;
+    font-size: 20px;
+
+ }
+ .mision {
+    background-color: #d6d5bd;
+    float: left;
+    width:48%;
+    height: 300px;
+    font-family: 'Kaisei Decol', serif;
+    font-size: 20px;
+ }
+ .misis {
+    font-family: 'Playfair Display', serif;
+ }
+ .visis {
+    font-family: 'Playfair Display', serif;
+
+ }
+ .vision {
+    font-size: 20px;
+    background-color: #d6d5bd;
+    float: right;
+    width: calc(50% - 50px);
+    height: 300px;
+    font-family: 'Kaisei Decol', serif;
+
+    
+ }
+.section2 {
+    
+        font-family: 'Playfair Display', serif;
+        font-size: 25px;
+        text-align: center;
+        color: black;
+        float: left;
+        text-size-adjust:initial;
+        background-color: #f0efd9 ;
+        width: 97%;
+        height: auto ;
+        min-height: 300px;
+        padding: 20px;
+        }
+        .lema{
+            font-family: 'Great Vibes', cursive;
+font-size: 20px;
+        }
